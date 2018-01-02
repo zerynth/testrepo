@@ -9,7 +9,7 @@ import math
 
 streams.serial()
 
-
+#loop forever
 while True:
     # loop over angles in degrees
     print("---> TRIGONOMETRY!")
